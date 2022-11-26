@@ -1,0 +1,9 @@
+
+.idea/
+__pycache__/
+*.pyc
+env
+/env
+venv
+/venv
+readme.docx
