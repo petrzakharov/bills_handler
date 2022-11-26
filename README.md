@@ -3,7 +3,7 @@
 python manage.py makemigrations
 python manage.py migrate
 ```
-## Запустить тестовый сервер сервер
+## Запустить тестовый сервер
 ```
 python manage.py runserver 8000  
 ```
